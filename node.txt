@@ -19,7 +19,7 @@ react dynamic
 backend
 --------------
 node javascript
-mongo db 
+mongo db
 
 
 
@@ -29,3 +29,15 @@ mono db  | express  |react|nide
 
 for html-shift+1
 happy coding 
+
+
+
+in html 
+the block level 
+> start with new line and and take all the width in screen ..
+>eg-h,p,center,etc...
+
+
+inline level
+>start with same line take space how mucg it required 
+>eg-image , a ,span 
